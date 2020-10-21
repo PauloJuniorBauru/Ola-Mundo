@@ -1,2 +1,2 @@
-# Ola Mundo
- Treino de versionamento
+# Olá, Mundo!
+ Treino de versionamento, com Git e GitHub.
